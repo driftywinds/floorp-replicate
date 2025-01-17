@@ -1,3 +1,5 @@
+## DEPRECIATED, NOT SUPPORTED ANYMORE
+## Please use (this)[https://github.com/driftywinds/Floorp-Configs] instead.
 # Floorp Replication
 Repo for instructions and files to replicate my Floorp browser setup **exactly**. 
 
